@@ -7,7 +7,7 @@
 Hola, soy Álvaro, estudiante de Ingeniería Informática en la Universidad de Jaén.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
   
 - 💼 ¿Algún trabajo? Escríbeme, [email](mailto:ard00032@red.ujaen.es) :)
 - 💬 Pregúntame cualquier cosa, estaré encantado de ayudar;
